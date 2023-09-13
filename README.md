@@ -18,7 +18,7 @@ REST API capable of CRUD operations on a "person" resource.
 
 #### Running the Server
 
-- Clone the repo using: git clone https://github.com/zuri-training/Team-wolf-w2.git
+- Clone the repo using: git clone https://github.com/quadri-usman/HNG_task2.git
 - To install packages, run: npm install
 - Open a .env file in the root/cloned directory and put the following inside it
   - PORT = 3000
