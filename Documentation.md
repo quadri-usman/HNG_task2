@@ -4,6 +4,11 @@
 
 REST API capable of CRUD operations on a "person" resource.
 
+## Links
+
+GitHub Repository: https://github.com/zuri-training/Team-wolf-w2
+Hosting: http://ec2-34-239-165-230.compute-1.amazonaws.com:3000/
+
 ## Feature Requests
 
 - CREATE: Adding a new person
@@ -29,3 +34,5 @@ REST API capable of CRUD operations on a "person" resource.
 
   - The api endpoints can be found and tested in the api.rest file
   - Note: After creating a person, replace the "id" value for fetching, updating and removing the person.
+
+## Chanllenges (Suggestions and Contributions are welcome)

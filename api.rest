@@ -1,0 +1,23 @@
+@url = "http://localhost:3000/"
+
+POST http://localhost:3000/api/create HTTP/1.1
+Content-Type: application/json
+
+{
+      
+      "name": "Quadri Usman"
+
+}
+######################################
+GET http://localhost:3000/api/6501e93a8338c81976a6b764
+#####################################
+GET http://localhost:3000/api/all HTTP/1.1;
+######
+PUT http://localhost:3000/api/6501e93a8338c81976a6b764
+Content-Type: application/json
+
+{      
+"name": "Ahmad Usman"
+}
+#####
+DELETE http://localhost:3000/api/6501e93a8338c81976a6b764
