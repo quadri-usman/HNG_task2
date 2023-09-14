@@ -35,4 +35,5 @@ Hosting: http://ec2-34-239-165-230.compute-1.amazonaws.com:3000/
   - The api endpoints can be found and tested in the api.rest file
   - Note: After creating a person, replace the "id" value for fetching, updating and removing the person.
 
-## Chanllenges (Suggestions and Contributions are welcome)
+## Chanllenges 
+- I tried to host the API on fly.io but faced a lot of challenges. I had to contact a colleague at the internship who helped out to host on railway
