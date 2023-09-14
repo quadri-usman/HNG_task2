@@ -59,7 +59,7 @@ exports.updateName = async (req, res) => {
           message: "Name not found with id " + req.params.id,
         });
       }
-      res.send(name);
+      res.send({ message: "Name updated successfully!", name });
     });
   } catch (err) {
     res.status(500).json({ message: err.message });
