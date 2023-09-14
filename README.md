@@ -14,7 +14,7 @@ REST API capable of CRUD operations on a "person" resource.
 #### Prerequisites
 
 - Download and Install new version of node from https://nodejs.org
-- Download and install Mongo DB Compass
+- Download and install Mongo DB Compass for local server and hosting 
 
 #### Running the Server
 
