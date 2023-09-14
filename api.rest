@@ -1,6 +1,6 @@
-@url = "http://localhost:3000/"
+@url = https://hngtask2-production-98ad.up.railway.app/api
 
-POST http://localhost:3000/api/create HTTP/1.1
+POST https://hngtask2-production-98ad.up.railway.app/api/create HTTP/1.1
 Content-Type: application/json
 
 {
@@ -9,15 +9,15 @@ Content-Type: application/json
 
 }
 ######################################
-GET http://localhost:3000/api/6501e93a8338c81976a6b764
+GET https://hngtask2-production-98ad.up.railway.app/api/65021b26d7e62ad70d323200
 #####################################
-GET http://localhost:3000/api/all HTTP/1.1;
+GET https://hngtask2-production-98ad.up.railway.app/api/all
 ######
-PUT http://localhost:3000/api/6501e93a8338c81976a6b764
+PUT https://hngtask2-production-98ad.up.railway.app/api/65021b26d7e62ad70d323200
 Content-Type: application/json
 
 {      
 "name": "Ahmad Usman"
 }
 #####
-DELETE http://localhost:3000/api/6501e93a8338c81976a6b764
+DELETE https://hngtask2-production-98ad.up.railway.app/api/65021b26d7e62ad70d323200
