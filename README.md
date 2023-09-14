@@ -28,4 +28,4 @@ REST API capable of CRUD operations on a "person" resource.
   ### Endpoints
 
   - The api endpoints can be found and tested in the api.rest file
-  - Note: After creating a person, replace the "id" value for fetching, updating and removing the person.
+  
