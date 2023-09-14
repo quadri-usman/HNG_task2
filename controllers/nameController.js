@@ -74,7 +74,7 @@ exports.deleteName = async (req, res) => {
           message: "Name not found with id " + req.params.id,
         });
       }
-      res.send({ message: "Name deleted successfully!" });
+      res.send({ message: "Name deleted successfully!", name });
     });
   } catch (err) {
     res.status(500).json({ message: err.message });
