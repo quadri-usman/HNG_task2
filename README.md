@@ -28,4 +28,6 @@ REST API capable of CRUD operations on a "person" resource.
   ### Endpoints
 
   - The api endpoints can be found and tested in the api.rest file
+  ### Hosting
+  - http://ec2-34-239-165-230.compute-1.amazonaws.com:3000/
   
