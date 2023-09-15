@@ -1,6 +1,6 @@
 @url = https://hngtask2-production-98ad.up.railway.app/api
 
-POST https://hngtask2-production-98ad.up.railway.app/api/create HTTP/1.1
+POST https://hngtask2-production-98ad.up.railway.app/api HTTP/1.1
 Content-Type: application/json
 
 {
