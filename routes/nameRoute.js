@@ -8,7 +8,7 @@ const controller = require("../controllers/nameController");
 router
   .get("/all", controller.getNames)
   .get("/:id", controller.getName)
-  .post("/create", controller.addName)
+  .post("/", controller.addName)
   .put("/:id", controller.updateName)
   .delete("/:id", controller.deleteName);
 
