@@ -6,8 +6,8 @@ REST API capable of CRUD operations on a "person" resource.
 
 ## Links
 
-GitHub Repository: https://github.com/zuri-training/Team-wolf-w2
-Hosting: http://ec2-34-239-165-230.compute-1.amazonaws.com:3000/
+GitHub Repository: https://github.com/quadri-usman/HNG_task2
+Hosting: https://hngtask2-production-98ad.up.railway.app/api
 
 ## Feature Requests
 
